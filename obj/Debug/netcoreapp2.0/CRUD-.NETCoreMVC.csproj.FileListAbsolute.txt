@@ -1,0 +1,10 @@
+C:\TypeScript\CRUD-.NETCoreMVC\bin\Debug\netcoreapp2.0\CRUD-.NETCoreMVC.deps.json
+C:\TypeScript\CRUD-.NETCoreMVC\bin\Debug\netcoreapp2.0\CRUD-.NETCoreMVC.runtimeconfig.json
+C:\TypeScript\CRUD-.NETCoreMVC\bin\Debug\netcoreapp2.0\CRUD-.NETCoreMVC.runtimeconfig.dev.json
+C:\TypeScript\CRUD-.NETCoreMVC\bin\Debug\netcoreapp2.0\CRUD-.NETCoreMVC.dll
+C:\TypeScript\CRUD-.NETCoreMVC\bin\Debug\netcoreapp2.0\CRUD-.NETCoreMVC.pdb
+C:\TypeScript\CRUD-.NETCoreMVC\obj\Debug\netcoreapp2.0\CRUD-.NETCoreMVC.csproj.CoreCompileInputs.cache
+C:\TypeScript\CRUD-.NETCoreMVC\obj\Debug\netcoreapp2.0\CRUD-.NETCoreMVC.AssemblyInfoInputs.cache
+C:\TypeScript\CRUD-.NETCoreMVC\obj\Debug\netcoreapp2.0\CRUD-.NETCoreMVC.AssemblyInfo.cs
+C:\TypeScript\CRUD-.NETCoreMVC\obj\Debug\netcoreapp2.0\CRUD-.NETCoreMVC.dll
+C:\TypeScript\CRUD-.NETCoreMVC\obj\Debug\netcoreapp2.0\CRUD-.NETCoreMVC.pdb
